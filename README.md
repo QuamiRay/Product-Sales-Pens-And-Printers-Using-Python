@@ -1,7 +1,7 @@
 # Product-Sales-Pens-And-Printers
 A Python project on the sales analysis for the pens and printers organization
 
-![](Intro_image.jpg)
+![](intro_image.jpg)
 
 ## Introduction
 This is a Python project on sales analysis of an imaginary store called Pens and Printers. The project is to analyze and derive insights to answer business questions which in turn will lead to the store making data-driven decisions.
@@ -9,7 +9,7 @@ This is a Python project on sales analysis of an imaginary store called Pens and
 
 ## Skills / Concepts Demonstrated
 The following Python libraries and skills were incorporated:
-Numpy, Pandas, Matplotlib, Seaborn, importation and cleaning, exploratory analysis, data manipulation, statistics, and data visualizations.
+Numpy, Pandas, Matplotlib, Seaborn, importation and cleaning, exploratory analysis, data manipulation, statistics, and visualization.
 
 ## Problem statement
 Pens and Printers' mission is to provide high-quality office products for large organizations. They prioritize rolling over new products expeditiously to their clients before their competitors.
