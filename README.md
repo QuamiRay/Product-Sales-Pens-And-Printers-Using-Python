@@ -1,4 +1,4 @@
-# Product-Sales-Pens-And-Printers
+# Sales-Pens-And-Printers-Using-Python
 A Python project on the sales analysis for the pens and printers organization
 
 ![](intro_image.jpg)
